@@ -2,7 +2,8 @@
 ## Javascript based rgb colour guessing game!
 
 ### Layout!
-- two modes: 1.Easy 2. Hard
+- Two modes: 1.Easy 2. Hard
+- Guess the "Right Box" According to given RGB Value!
 - If want to Play again.......Hit Play Again!
 - Colours Not soothing!!!!......No problem, Hit New Colors!
 
